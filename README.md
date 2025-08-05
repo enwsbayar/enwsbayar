@@ -1,4 +1,4 @@
-# enwsBayar / README.md
+# enwsBayar
 
 ## Hi, I'm Enes
 
