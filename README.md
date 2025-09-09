@@ -11,3 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=enwsbayar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# CodeWars Stats:
+[![Codewars](https://www.codewars.com/users/enwsbayar/badges/large)](https://www.codewars.com/users/enwsbayar)
