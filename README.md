@@ -16,9 +16,11 @@
 ![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000.svg?style=flat-square&logo=unity&logoColor=white)
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=false) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=enwsbayar&theme=radical&hide_border=false)<br/>
+-->
 
 # CodeWars Stats:
 [![Codewars](https://www.codewars.com/users/enwsbayar/badges/large)](https://www.codewars.com/users/enwsbayar)
