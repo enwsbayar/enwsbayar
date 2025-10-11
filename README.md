@@ -20,5 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=false) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=enwsbayar&theme=radical&hide_border=false&v=3)<br/>
 
-# CodeWars Stats:
+# Codewars Stats:
 [![Codewars](https://www.codewars.com/users/enwsbayar/badges/large)](https://www.codewars.com/users/enwsbayar)
