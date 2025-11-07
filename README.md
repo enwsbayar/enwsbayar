@@ -17,7 +17,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000.svg?style=flat-square&logo=unity&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&v=1) <br/>
+![](https://github-readme-stats.vercel.app/api?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&v=2) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=enwsbayar&theme=radical&hide_border=false&v=1)<br/>
 
 # Codewars Stats:
