@@ -20,12 +20,10 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E)
-![picoCAD](https://img.shields.io/badge/picoCAD-FF77A8?style=flat-square&logoColor=white)
-
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=1) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=enwsbayar&theme=radical&hide_border=false&v=1)<br/>
+![](https://github-readme-stats.vercel.app/api?username=enwsbayar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=2) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=enwsbayar&theme=radical&hide_border=false&v=2)<br/>
 
 # Codewars Stats:
 [![Codewars](https://www.codewars.com/users/enwsbayar/badges/large)](https://www.codewars.com/users/enwsbayar)
