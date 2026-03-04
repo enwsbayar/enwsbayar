@@ -55,8 +55,7 @@ interests:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
- <img width="60%" src="https://streak-stats.demolab.com?user=enwsbayar&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</div>
+<img width="60%" src="https://streak-stats.demolab.com?user=enwsbayar&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&timezone=Europe/Istanbul" />
 
 <br/>
 
