@@ -55,12 +55,12 @@ interests:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=enwsbayar&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&timezone=Europe/Istanbul&v=2" />
+<img src="https://streak-stats.demolab.com?user=enwsbayar&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&exclude_days=Sun" />
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=enwsbayar&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enwsbayar&show_icons=true&theme=tokyonight" />
 </div>
 
 
