@@ -60,7 +60,7 @@ interests:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enwsbayar&show_icons=true&theme=tokyonight" />
+
 </div>
 
 
